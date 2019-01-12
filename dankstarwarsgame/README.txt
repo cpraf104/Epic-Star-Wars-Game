@@ -1,5 +1,5 @@
 
-
+Run game.exe
 
 To move x-wing, use arrow keys
 
